@@ -1,0 +1,15 @@
+.teams{
+    text-align: center;
+}
+
+.team{
+float: left;
+width: 33%;
+}
+.clearfix{
+    clear: left;
+}
+.par{
+    text-align: center;
+
+}
